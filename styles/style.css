@@ -9,7 +9,7 @@ common styles and utilities
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #F3F1FF;
-    max-width: 1440px;
+
     margin: 0 auto;
 
 }
@@ -192,6 +192,7 @@ hr {
 @media only screen and (max-width:688px) {
 
 
+
     .idea {
         gap: 5px;
     }
@@ -220,9 +221,7 @@ hr {
         flex-direction: column;
     }
 
-    .blog-info {
-        margin-left: 0%;
-    }
+
 }
 
 /* -------For-Tablet-devices------- */
