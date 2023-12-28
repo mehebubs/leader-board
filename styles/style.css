@@ -9,14 +9,10 @@ common styles and utilities
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #F3F1FF;
-
-    margin: 0 auto;
-
 }
 
 header {
     background-color: #562EFF;
-
 }
 
 .head {
@@ -190,8 +186,6 @@ hr {
  For-mobile devices
   ----------------- */
 @media only screen and (max-width:688px) {
-
-
 
     .idea {
         gap: 5px;
